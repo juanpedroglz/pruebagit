@@ -3,3 +3,9 @@ Soy programador web
 Tengo 28 anios recien cumplidos
 
 Me gusta el fulbo y le voy al Cruz Azul
+
+Vamos a regresar lineas que habiamos quitado
+trabajo en una casa de empenio
+vivo en mexico
+me gusta programar 
+estoy retomando mis cursos de git and github
