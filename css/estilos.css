@@ -1,11 +1,8 @@
 body{
     color: blue;
     text-align: center;
-<<<<<<< HEAD
     font-family: "Helvetica";
-=======
-    font-family: "Courier";
->>>>>>> cabecera
+    background-color: red;
     margin: 0;
     padding: 0;
 }
