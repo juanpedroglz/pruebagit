@@ -1,14 +1,7 @@
 body{
     color: blue;
     text-align: center;
-<<<<<<< HEAD
-    font-family: "Helvetica";
-    background-color: red;
-=======
-    font-family: "Courier";
-    background-color: papayawhip;
->>>>>>> cabecera
-    margin: 0;
+    background-color: blue;
     padding: 0;
 }
 
