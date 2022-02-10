@@ -1,7 +1,9 @@
 body{
     color: blue;
     text-align: center;
-    background-color: blue;
+    font-family: "Courier";
+    background-color: gray;
+    margin: 0;
     padding: 0;
 }
 
