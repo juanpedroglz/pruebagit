@@ -1,7 +1,11 @@
 body{
     color: blue;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Helvetica";
+=======
+    font-family: "Courier";
+>>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
